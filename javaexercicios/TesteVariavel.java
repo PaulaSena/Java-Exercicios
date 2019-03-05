@@ -13,9 +13,10 @@ public class TesteVariavel {
         System.out.println("Um int:"+i);
         long l= i*i;
         System.out.println("Um long:"+l);
-        float f
-        
-        System.out.println("");
-    }
+        float f =l*5/2;
+        System.out.println("Um float:"+f);
+        double d =l*l;
+        System.out.println("Um double:"+d);
+            }
     
 }
